@@ -1,7 +1,6 @@
 # Shopping Cart Website
 
-This is a shopping cart website built using React.js where customers can add clothes to their cart and update the quantities of items. The project demonstrates several advanced React concepts such as prop drilling, the Context API, and the useReducer hook.
-
+This is a shopping cart website built using React.js where customers can add clothes to their cart and update the quantities of items. Managed state using the Context API.
 ## Features
 
 - Browse a collection of clothes and add items to the shopping cart
